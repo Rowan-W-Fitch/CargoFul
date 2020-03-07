@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class ShipperConfig(AppConfig):
-    name = 'Shipper'
+class shipperConfig(AppConfig):
+    name = 'shipper'
